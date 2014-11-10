@@ -11,4 +11,5 @@
  *
  * - The WordPress.com VIP Team
  **/
- 
+
+ $jack = array();
