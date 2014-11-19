@@ -301,6 +301,8 @@ class WP_Options_Importer {
 	private function handle_upload() {
 		$file = wp_import_handle_upload();
 
+error_log( 'Importer - ' . print_r( $file, true ) );
+
 		if ( isset( $file['error'] ) ) {
 			return $this->error_message(
 				__( 'Sorry, there has been an error.', 'wp-options-importer' ),
