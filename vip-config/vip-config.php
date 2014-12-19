@@ -12,4 +12,4 @@
  * - The WordPress.com VIP Team
  **/
 
- $jack_and_jill_went_up_the_hill_to_fetch_a_pale = array();
+ $jack_and_jill_went_up_the_hill_to_fetch_a_pale_of = array();
