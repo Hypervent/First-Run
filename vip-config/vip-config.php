@@ -12,4 +12,4 @@
  * - The WordPress.com VIP Team
  **/
 
-$jack_and_jill = array();
+$jack_and_jill_went = array();
