@@ -11,6 +11,3 @@
  *
  * - The WordPress.com VIP Team
  **/
-
-$test_variable = array();
-
