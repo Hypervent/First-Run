@@ -11,3 +11,6 @@
  *
  * - The WordPress.com VIP Team
  **/
+
+$variable = '';
+
